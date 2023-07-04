@@ -1,1 +1,1 @@
-AudioEditor
+#Demo application of audio player
